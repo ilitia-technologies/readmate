@@ -1,5 +1,9 @@
 # :newspaper: Readmate
 
+##### Disclaimer
+
+This *README* was generated with the assistance of this Artificial Intelligence (AI) tool and is intended for demonstration purposes only. While reasonable efforts have been made to ensure accuracy, the developers do not guarantee that it is error-free. Please use this information with caution and consult professional advice as necessary.
+
 # Project Abstract
 
 This Python project is a comprehensive toolkit for analyzing and inspecting Python code and projects. It provides functionalities for reading and manipulating various file formats, analyzing code structure and dependencies, generating README files, and extracting relevant information from projects. The project aims to streamline the process of understanding and documenting Python projects, making it easier for developers to navigate and collaborate on codebases.

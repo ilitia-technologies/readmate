@@ -1,0 +1,44 @@
+{
+    "main_modules": {
+        "desc_keys_files": [
+            "Functions",
+            "Classes",
+            "CodeExtractions"
+        ],
+        "desc_keys_modules": [
+            "Functions",
+            "Classes",
+            "CodeExtractions"
+        ],
+        "prompt": "MAIN_MODULES_PROMPT",
+        "log_msg": "log_msg"
+    },
+    "recommended_modules": {
+        "desc_keys_files": [
+            "Functions",
+            "Classes",
+            "Imports",
+            "Technologies"
+        ],
+        "desc_keys_modules": [
+            "Functions",
+            "Classes",
+            "Imports",
+            "Technologies"
+        ],
+        "prompt": "RECOMMENDED_MODULES_PROMPT",
+        "log_msg": "log_msg"
+    },
+    "installation": {
+        "desc_keys_files": ["Description", "Technologies"],
+        "desc_keys_modules": ["Description", "Technologies"],
+        "prompt": "INSTALLATION_PROMPT",
+        "log_msg": "log_msg"
+    },
+    "configuration": {
+        "desc_keys_files": ["Description", "Technologies"],
+        "desc_keys_modules": ["Description", "Technologies"],
+        "prompt": "CONFIGURATION_PROMPT",
+        "log_msg": "log_msg"
+    }
+}

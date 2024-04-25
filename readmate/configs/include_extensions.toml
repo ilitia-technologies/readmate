@@ -1,0 +1,13 @@
+# extensions.toml
+
+[extensions]
+py = { include = true }
+txt = { include = true }
+# md = { include = true }
+# yml = { include = true }
+# yaml = { include = true }
+# toml = { include = false }
+# json = { include = true}
+
+[filenames]
+# ockerfile = {include = true}

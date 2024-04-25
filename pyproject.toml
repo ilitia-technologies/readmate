@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "readmate"
+version = "0.1.0"
+description = ""
+authors = ["javierd <javierd@ilitia.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+langchain = "^0.1.11"
+langgraph = "^0.0.26"
+langchain-openai = "^0.0.8"
+python-dotenv = "^1.0.1"
+fastapi = "^0.110.0"
+uvicorn = "^0.28.0"
+tiktoken = "^0.6.0"
+langchainhub = "^0.1.15"
+rich = "^13.7.1"
+tenacity = "^8.2.3"
+toml = "^0.10.2"
+nbformat = "^5.10.3"
+typer = "^0.12.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

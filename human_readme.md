@@ -54,7 +54,7 @@ Commands
     --readme-only -ro BOOL     
     ```
 
-![Project Screenshot_1](assets\https://github.com/ilitia-technologies/readmate/blob/4c9552a380b41885c4e30eff966c1860d1a5563b/assets/cli.png)
+![Project Screenshot_1](https://github.com/ilitia-technologies/readmate/blob/a89adac94c3991387e92903e605cd9d2313dd229/assets/cli.png)
 
 
 ### Workflow 

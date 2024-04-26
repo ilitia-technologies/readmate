@@ -54,7 +54,7 @@ Commands
     --readme-only -ro BOOL     
     ```
 
-![Project Screenshot_1](assets\cli.png)
+![Project Screenshot_1](assets\https://github.com/ilitia-technologies/readmate/blob/4c9552a380b41885c4e30eff966c1860d1a5563b/assets/cli.png)
 
 
 ### Workflow 
@@ -65,13 +65,13 @@ This project consists of two main workflows, each facilitated by `cli.py`. Below
 
 The first part of the workflow involves using the CLI to obtain JSON files, which are necessary for processing and data handling within the application.
 
-![Project Screenshot_2](assets\top_level.drawio.png)
+![Project Screenshot_2](https://github.com/ilitia-technologies/readmate/blob/4c9552a380b41885c4e30eff966c1860d1a5563b/assets/top_level.drawio.png)
 
 #### Generating README
 
 Once the JSON files are prepared, the second workflow focuses on generating the README file. This is done using the previously obtained JSONs, automating the documentation process based on the data processed.
 
-![Project Screenshot_3](assets\readme.drawio.png)
+![Project Screenshot_3](https://github.com/ilitia-technologies/readmate/blob/4c9552a380b41885c4e30eff966c1860d1a5563b/assets/readme.drawio.png)
 
 
 ### Tests

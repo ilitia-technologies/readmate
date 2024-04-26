@@ -141,6 +141,4 @@ cython_debug/
 
 # Json files inside endpoint
 readmate/json_output/*
-readmate/tests/*
-tests/*
 .vscode/*
